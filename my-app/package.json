@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://devster41.github.io/my-app",
+  "homepage": "https://devster41.github.io/",
   "private": true,
   "proxy": "http://192.168.10.16:3000",
   "dependencies": {
