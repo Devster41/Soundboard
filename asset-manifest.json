@@ -1,28 +1,41 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.53389aa4.js",
+    "main.css": "/static/css/main.aed72fb6.css",
+    "main.js": "/static/js/main.73e955dc.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Skyrim.mp3": "/static/media/Skyrim.e4c03e571e52158bcd75.mp3",
     "static/media/Tenors.mp3": "/static/media/Tenors.e5c959f16071f4f943a1.mp3",
     "static/media/Gym.mp3": "/static/media/Gym.76a53d5c9184fa79ee3a.mp3",
+    "static/media/Height.mp3": "/static/media/Height.4260d771dc14725ac3ea.mp3",
     "static/media/Cheesemakers.mp3": "/static/media/Cheesemakers.ec70edfcb883ca02d37b.mp3",
+    "static/media/CSMajor.mp3": "/static/media/CSMajor.f3173b41b6467e7e41b6.mp3",
+    "static/media/Queen.mp3": "/static/media/Queen.7cace19fe3b4f2ebb4a3.mp3",
     "static/media/Hobbit.mp3": "/static/media/Hobbit.c42a6b454482262f05f5.mp3",
     "static/media/Yes.mp3": "/static/media/Yes.e48ff4c0c85b0739caf6.mp3",
     "static/media/No.mp3": "/static/media/No.d443f93f3bcf556858ad.mp3",
     "static/media/Forgot adderall.mp3": "/static/media/Forgot adderall.4da9afb288ff59ae8c3a.mp3",
+    "static/media/Computer.mp3": "/static/media/Computer.9a3cfbf2b61eaab4114d.mp3",
+    "static/media/Astrology.mp3": "/static/media/Astrology.c79095913ed197497e4b.mp3",
+    "static/media/Jesus.mp3": "/static/media/Jesus.5552a395d210383050c0.mp3",
     "static/media/Hello.mp3": "/static/media/Hello.afd307e6bce359c5b4b2.mp3",
     "static/media/RussianBye.mp3": "/static/media/RussianBye.ca18bdaf4a64e8feff39.mp3",
+    "static/media/Loathing.mp3": "/static/media/Loathing.5def025f798185c98024.mp3",
+    "static/media/Sorry.mp3": "/static/media/Sorry.f7f822cff5b93315ec0f.mp3",
+    "static/media/Stupid.mp3": "/static/media/Stupid.c12e82a02cc375d7f5a9.mp3",
     "static/media/Shalom.mp3": "/static/media/Shalom.5ee51d1c05dd3e2f4df0.mp3",
+    "static/media/Crap.mp3": "/static/media/Crap.989fd70ada006e3414cb.mp3",
     "static/media/Pants.mp3": "/static/media/Pants.e7dd9b60bfcb1ad42a54.mp3",
+    "static/media/Wrong.mp3": "/static/media/Wrong.6b740bef101403d76288.mp3",
+    "static/media/What.mp3": "/static/media/What.ce4f4436ec6ba1aabd37.mp3",
     "static/media/Perhaps.mp3": "/static/media/Perhaps.8533f6bdb4ddbc5c8c1c.mp3",
+    "static/media/Mayhaps.mp3": "/static/media/Mayhaps.e305273020d789c74daa.mp3",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.53389aa4.js.map": "/static/js/main.53389aa4.js.map",
+    "main.aed72fb6.css.map": "/static/css/main.aed72fb6.css.map",
+    "main.73e955dc.js.map": "/static/js/main.73e955dc.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.53389aa4.js"
+    "static/css/main.aed72fb6.css",
+    "static/js/main.73e955dc.js"
   ]
 }
